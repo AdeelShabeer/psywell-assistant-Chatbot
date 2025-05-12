@@ -1,6 +1,6 @@
 # psywell-assistant-Chatbot
 AI-powered health psychology chatbot offering evidence-based mental health support using cognitive-behavioral techniques
-# 🧠 Adeel Psychologist Chatbot
+# 🧠 
 
 Adeel Psychologist Chatbot is a supportive mental wellness tool built with **OpenAI’s GPT-3.5-Turbo** and a user-friendly **Gradio interface**. It is designed to simulate a compassionate psychologist to help users with emotional support, stress management, and mental well-being.
 
@@ -8,46 +8,50 @@ Adeel Psychologist Chatbot is a supportive mental wellness tool built with **Ope
 
 ---
 
-## 💡 Features
+# PsyWell - Mental Health Chatbot
 
-- 🗣️ AI-powered chatbot trained with a psychologist persona
-- 📘 Suggests coping strategies, relaxation tips, and emotional support
-- 🌐 Simple Gradio-based web interface
-- 🔒 No data stored; runs locally or via secure link
+A friendly AI assistant that helps with stress and emotions.
 
 ---
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/Adeel-Psychologist-Chatbot.git
-cd Adeel-Psychologist-Chatbot
-2. Set Up a Virtual Environment (optional but recommended)
-bash
-Copy
-Edit
-python -m venv venv
-# Activate virtual environment
-venv\Scripts\activate      # Windows
-source venv/bin/activate   # macOS/Linux
-3. Install Required Packages
-bash
-Copy
-Edit
-pip install -r requirements.txt
-4. Add Your OpenAI API Key
-Create a .env file in the project folder:
+###   AI Mental Health Chatbot Installation Guide
 
-ini
-Copy
-Edit
-OPENAI_API_KEY=sk-your-openai-key-here
-🔐 Never share your OpenAI key publicly.
 
-▶️ Running the App
-bash
-Copy
-Edit
+## First Time Setup
+
+1. Get a free OpenAI key from: https://platform.openai.com
+2. Create a file named `.env` in the project folder
+3. Put this inside:
+
+4. ---
+
+5. 
+## Get Started
+
+1. Download Python from python.org
+2. Open Command Prompt (Windows) or Terminal (Mac)
+3. Type these commands one by one:
+pip install openai gradio
 python app.py
-You’ll get a local link like:
-http://127.0.0.1:7860
-Or a public link if share=True is enabled.
+
+---
+
+
+## How to Use
+
+1. Double-click `app.py` to start
+2. Talk to the bot in your web browser
+3. Close the window when done
+
+⚠️ Important: This is NOT real therapy. For emergencies, contact a doctor.
+
+## Troubleshooting
+
+If you see errors:
+- Make sure Python is installed
+- Check your internet connection
+- Restart your computer
+
+Need help? Email: adeelshabeer886@gmail.com
+
+
