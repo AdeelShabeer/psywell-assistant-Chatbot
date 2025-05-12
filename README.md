@@ -1,8 +1,8 @@
 # psywell-assistant-Chatbot
 AI-powered health psychology chatbot offering evidence-based mental health support using cognitive-behavioral techniques
-# 🧠 
+# 🧠  Mental Health Chatbot
 
-Adeel Psychologist Chatbot is a supportive mental wellness tool built with **OpenAI’s GPT-3.5-Turbo** and a user-friendly **Gradio interface**. It is designed to simulate a compassionate psychologist to help users with emotional support, stress management, and mental well-being.
+  Mental Health Chatbot is a supportive mental wellness tool built with **OpenAI’s GPT-3.5-Turbo** and a user-friendly **Gradio interface**. It is designed to simulate a compassionate psychologist to help users with emotional support, stress management, and mental well-being.
 
 ⚠️ **Disclaimer:** This chatbot is for educational and supportive purposes only. It is **not a substitute for professional medical advice or therapy**.
 
@@ -21,6 +21,7 @@ A friendly AI assistant that helps with stress and emotions.
 1. Get a free OpenAI key from: https://platform.openai.com
 2. Create a file named `.env` in the project folder
 3. Put this inside:
+4. OPENAI_API_KEY="your-key-here "
 
  ---
 
