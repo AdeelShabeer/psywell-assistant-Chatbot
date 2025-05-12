@@ -16,16 +16,14 @@ A friendly AI assistant that helps with stress and emotions.
 
 ###   AI Mental Health Chatbot Installation Guide
 
-
 ## First Time Setup
 
 1. Get a free OpenAI key from: https://platform.openai.com
 2. Create a file named `.env` in the project folder
 3. Put this inside:
 
-4. ---
+ ---
 
-5. 
 ## Get Started
 
 1. Download Python from python.org
@@ -36,7 +34,6 @@ python app.py
 
 ---
 
-
 ## How to Use
 
 1. Double-click `app.py` to start
@@ -44,6 +41,8 @@ python app.py
 3. Close the window when done
 
 ⚠️ Important: This is NOT real therapy. For emergencies, contact a doctor.
+
+---
 
 ## Troubleshooting
 
